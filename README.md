@@ -7,7 +7,7 @@ Please cite this work as follows:
 ```
     @article{madrazoHCEG:2019,
 	author = {Ion Madrazo Azpiazu and Maria Soledad Pera},
-	year = "2019",
+	year = "2020",
 	title = {Hierarchical  Mapping for Cross-lingual  Word Embedding Alignment},
 	journal = {Transactions of the Association for Computational Linguistics},
 	volume = "1",
