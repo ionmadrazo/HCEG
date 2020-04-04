@@ -20,6 +20,26 @@ The alignment of word embedding spaces in different languages into a common cros
 
 ![Example tree decription](https://github.com/ionmadrazo/HCEG/blob/master/LanguageTree.png)
 
+
+## Requirements
+In order to run this code you will first need to:
+
+- [Python 3.7](https://www.python.org/downloads/)
+- [Anaconda 4.5.11](https://www.anaconda.com/download/)
+- [Pytorch 1.0.0](https://pytorch.org/)
+
+
+In addition, you will also need to install libraries described in requirements.txt file located on the root directory of this repository. You can install the by running the following command:
+```
+pip install -r requirements.txt
+
+### Run
+To run an experiment use the following command:
+
+```
+python main.py configs/<config file name>
+```
+
 ## License
 
 This software has a free to use license for non commercial use. Check **LICENSE** file for more details.
