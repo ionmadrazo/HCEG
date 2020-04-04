@@ -1,6 +1,6 @@
 # Hierarchical  Mapping for Cross-lingual  Word Embedding Alignment
 
-MHE is the result of a research collaboration between [Ion Madrazo Azpiazu](https://ionmadrazo.github.io/) and [Maria Soledad Pera](https://solepera.github.io/).
+HCEG is the result of a research collaboration between [Ion Madrazo Azpiazu](https://ionmadrazo.github.io/) and [Maria Soledad Pera](https://solepera.github.io/).
 
 Please cite this work as follows:
 
