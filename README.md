@@ -32,6 +32,7 @@ In order to run this code you will first need to:
 In addition, you will also need to install libraries described in requirements.txt file located on the root directory of this repository. You can install the by running the following command:
 ```
 pip install -r requirements.txt
+```
 
 ### Run
 To run an experiment use the following command:
